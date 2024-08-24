@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+body {background-color: #AEC09A;
+    font-family: "DM Serif Text"; margin: 0;
+}
+header {background-image: url(https://i.postimg.cc/VkJZ2vBL/images-3.jpg);
+color: white;text-align:center; height:90px}
+h1 {font-size: 25px; }
+
+main { height: 400px;
+margin: 4%;}
+img { height: 85px; margin: 10px;}
+footer { background-color: #1A2902; color: white; height:100px; 
+}
+footer img { height: 50px;}
